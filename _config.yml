@@ -2,16 +2,16 @@ url: https://y7kim.github.io
 baseurl: /agency-jekyll-theme/
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Granite Bay Key Club
+email: gbhskeyclub@gmail.com
+description: Granite Bay High School Key Club's official website has all the information you'll need about our fun events and amazing club!
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Noelle Prange
   pic: 1
-  position: Lead Designer
+  position: President
   social:
     - title: twitter
       url: #
@@ -20,9 +20,9 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: Lucas Souza
   pic: 2
-  position: Lead Marketer
+  position: Vice President
   social:
     - title: twitter
       url: #
@@ -31,9 +31,54 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: Abigail Young
   pic: 3
-  position: Lead Developer
+  position: Vice President
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Nithila Shanmugam
+  pic: 4
+  position: Secretary
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Noah Fang
+  pic: 5
+  position: Treasurer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Pavan Kumar
+  pic: 6
+  position: Spirit Coordinator
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+
+- name: Aveed Gorji
+  pic: 7
+  position: Editor
   social:
     - title: twitter
       url: #
@@ -44,21 +89,21 @@ people:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+  - title: fa-solid fa-chalkboard-user # Google Classroom
+    url: http://classroom.google.com/c/NDg0OTcxOTMwNTI4?cjc=2vzj6qr
+  - title: fa-regular fa-bell # Remind
+    url: http://www.remind.com/join/gbkey2223
+  - title: fab fa-instagram # Instagram
+    url: http://instagram.com/gbhskeyclub
+  - title: fa-solid fa-file-signature # Log Hours
+    url: https://docs.google.com/forms/d/e/1FAIpQLSd2h0tGnnX14LJ3opffw-qYmt-Cl-RPTCJYU0ON1MXfm2pnfQ/viewform
+  - title: fa-solid fa-table # View Hours
+    url: https://docs.google.com/spreadsheets/d/19Xaz8uoSPEwma9WqzVT4KAzPnZ7Eo9Tn0NyD_Ra7obA/edit#gid=1142350521
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 1 Grizzly Way
+  - line: Granite Bay, CA 90210
 
 # Build settings
 markdown: kramdown
