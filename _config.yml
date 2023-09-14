@@ -89,16 +89,12 @@ people:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: fa-solid fa-chalkboard-user # Google Classroom
-    url: http://classroom.google.com/c/NDg0OTcxOTMwNTI4?cjc=2vzj6qr
-  - title: fa-regular fa-bell # Remind
+  - title: fa-solid fa-r # Remind
     url: http://www.remind.com/join/gbkey2223
   - title: fab fa-instagram # Instagram
     url: http://instagram.com/gbhskeyclub
-  - title: fa-solid fa-file-signature # Log Hours
-    url: https://docs.google.com/forms/d/e/1FAIpQLSd2h0tGnnX14LJ3opffw-qYmt-Cl-RPTCJYU0ON1MXfm2pnfQ/viewform
-  - title: fa-solid fa-table # View Hours
-    url: https://docs.google.com/spreadsheets/d/19Xaz8uoSPEwma9WqzVT4KAzPnZ7Eo9Tn0NyD_Ra7obA/edit#gid=1142350521
+  - title: fab fa-twitter # Twitter
+    url: http://twitter.com/gbkeyclub
 
 # Postal address (add as many lines as necessary)
 address:
