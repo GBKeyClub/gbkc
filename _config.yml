@@ -89,12 +89,12 @@ people:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: fa-solid fa-r # Remind
-    url: http://www.remind.com/join/gbkey2223
-  - title: fab fa-instagram # Instagram
-    url: http://instagram.com/gbhskeyclub
-  - title: fab fa-twitter # Twitter
-    url: http://twitter.com/gbkeyclub
+#  - title: fas fa-r # Remind
+#    url: http://www.remind.com/join/gbkey2223
+#  - title: fab fa-instagram # Instagram
+#    url: http://instagram.com/gbhskeyclub
+#  - title: fab fa-twitter # Twitter
+#    url: http://twitter.com/gbkeyclub
 
 # Postal address (add as many lines as necessary)
 address:
