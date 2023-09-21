@@ -1,0 +1,15 @@
+---
+title: Club Rush
+subtitle: September 13-14, 2023
+layout: default
+modal-id: 2
+date: 2023-09-14
+img: clubrush.png
+thumbnail: concertc-thumbnail.png
+alt: image-alt
+project-date: September 14th, 2023
+type: Club Rush
+location: Granite Bay High School
+description: Here are the officers smiling after a couple long lunches explaining what Key Club is to other students and cutting Otter Pops on the second day of our Club Rush!
+
+---

@@ -1,0 +1,15 @@
+---
+title: October DCM
+subtitle: October 14th, 2022
+layout: default
+modal-id: 6
+date: 2022-10-14
+img: nightmarket.png
+thumbnail: nightmarket-thumbnail.png
+alt: image-alt
+project-date: October 14th, 2022
+type: Division Council Meeting
+location: Granite Bay High School
+description: Our October DCM in 2022 was a big success! Key Clubbers from all over the area decided to come to our very own campus and fundraised for PTP in exchange for delicious snacks in a night market fashion!
+
+---

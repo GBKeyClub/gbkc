@@ -1,0 +1,15 @@
+---
+title: Roseville Interclub
+subtitle: July 25th, 2023
+layout: default
+modal-id: 3
+date: 2023-07-25
+img: roseville.png
+thumbnail: roseville-thumbnail.png
+alt: image-alt
+project-date: July 25th, 2023
+type: Interclub
+location: Maidu Library
+description: We laughed so much together watching Ferris Bueller's Day Off and discovered each other's artistic talents during rock painting! Here are the rocks we made that day. We decided to place them around the library.
+
+---

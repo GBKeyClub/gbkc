@@ -1,0 +1,15 @@
+---
+title: Concert-C
+subtitle: September 16th, 2023
+layout: default
+modal-id: 1
+date: 2023-09-16
+img: concertc.png
+thumbnail: concertc-thumbnail.png
+alt: image-alt
+project-date: September 16th, 2023
+type: Regional Training
+location: Consumes High School
+description: On the left is Jennifer, our wonderful Lieutenant Governor, showing off her spirit at the Regional Training Conference!
+
+---
