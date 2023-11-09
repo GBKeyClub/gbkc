@@ -1,0 +1,13 @@
+---
+title: Senior Card-Making
+day: September 27th, 2023
+layout: default
+modal-id: 2
+date: 2023-09-27
+img: senior.png
+thumbnail: sr-thumbnail.png
+type: Weekly Meeting Crafts
+location: Granite Bay High School
+description: Everybody wrote kind notes to senior citizens from local Eskaton care center on paper leaves!
+
+---

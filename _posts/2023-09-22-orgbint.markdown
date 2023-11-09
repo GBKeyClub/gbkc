@@ -1,0 +1,13 @@
+---
+title: Oakmont x Roseville Interclub
+day: September 22nd, 2023
+layout: default
+modal-id: 3
+date: 2023-09-22
+img: orgb.png
+thumbnail: orgb-thumb.png
+type: Interclub
+location: Roseville Golfland Sunsplash
+description: We partnered with our best friends at Oakmont and Roseville High School to raise money for PTP while having fun!
+
+---
